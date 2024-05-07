@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Machu549
-- 👀 I’m interested in ...coding, electronics and computers!
-- 🌱 I’m currently learning ...C and C++
+- Hi, I’m @Machu549
+- I’m interested in ...coding, electronics and computers!
+- I’m currently learning ...C,C++,and にほんご
 
 
 <!---
